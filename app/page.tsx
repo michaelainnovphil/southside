@@ -19,16 +19,6 @@ const App = () => {
           height={38}
           priority
         />
-
-        <Image
-          className="image2"
-          src="/image2.jpg"
-          alt="image2"
-          width={180}
-          height={38}
-          priority
-        />
-
         <Image
           className="image3"
           src="/image3.jpg"
@@ -37,7 +27,16 @@ const App = () => {
           height={38}
           priority
         />
-
+          
+        <Image
+          className="image2"
+          src="/image2.jpg"
+          alt="image2"
+          width={180}
+          height={38}
+          priority
+        />
+          
           <Image
           className="image3"
           src="/image3.jpg"
