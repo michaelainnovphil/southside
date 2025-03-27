@@ -44,6 +44,15 @@ export default function Home() {
           priority
         />
 
+          <Image
+          className="image3"
+          src="/image3.jpg"
+          alt="image3"
+          width={180}
+          height={38}
+          priority
+        />
+
       </div>
       </div>
     </div>
