@@ -2,6 +2,7 @@ import Image from "next/image";
 import React from "react";
 import "./globals.css";
 
+
 const App = () => {
 
   return (
@@ -57,7 +58,20 @@ const App = () => {
       
       <div className="randomaah">
       <p className="text-l text-[#ffffff] tracking-wide font-regular">I&apos;m so fucking bored here you have no idea</p>
+      <p className="text-l text-[#ffffff] tracking-wide font-regular">dedma sa naghahadlang saken (nahuli sa work)</p>
+      <Image
+          className="randomaa1"
+          src="/randomaa1.png"
+          alt="randomaa1"
+          width={350}
+          height={100}
+          priority
+        />
+        <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 2, 2025 1:56 PM eto yung sabi kong meaning nung soad song na nakalimutan ko</p>
+
+
       </div>
+
       
           
     </div> 
