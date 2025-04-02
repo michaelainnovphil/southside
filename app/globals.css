@@ -1,6 +1,5 @@
 @import "tailwindcss";
 
-<<<<<<< HEAD
 .unifrakturmaguntia-regular {
   font-family: "UnifrakturMaguntia", cursive;
   font-weight: 400;
@@ -9,10 +8,6 @@
 
 
 
-=======
-
-
->>>>>>> 4ff7b09b863579e20fdb563c0a24da0fcf408c4a
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
