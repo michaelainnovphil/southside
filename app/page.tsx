@@ -51,7 +51,7 @@ const App = () => {
 
       
       <div className="txt1">
-        <p className="text-l text-[#ffffff] tracking-wide font-regular"><i>“Yesterday I advised you not to write me every day, I still hold the same opinion today and it would be very good for both of us, and so I repeat my advice today even more emphatically only please, Milena, don't listen to me, and write me every day anyway, it can even be very brief, briefer than today's letters, just 2 lines, just one, just one word, but if I had to go without them I would suffer terribly.”
+        <p className="text-l text-[#ffffff] tracking-wide font-regular"><i>“Yesterday I advised you not to write me every day, I still hold the same opinion today and it would be very good for both of us, and so I repeat my advice today even more emphatically only please, Milena, don&apos;t listen to me, and write me every day anyway, it can even be very brief, briefer than today&apos;s letters, just 2 lines, just one, just one word, but if I had to go without them I would suffer terribly.”
         ― Franz Kafka, Letters to Milena</i></p>
       </div>
       
