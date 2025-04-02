@@ -68,8 +68,15 @@ const App = () => {
           priority
         />
         <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 2, 2025 1:56 PM eto yung sabi kong meaning nung soad song na nakalimutan ko</p>
-
-
+      <div className="containerbot"></div>
+      <a
+            className="box" 
+            href="https://quietinsiders.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <p className="text-l ...">Entertain my thoughts.</p>
+          </a>
       </div>
 
       

@@ -36,6 +36,26 @@ body {
   text-align: center;
 }
 
+.box {
+  display: inline-block;
+  background-color: #603875;
+  color: white;
+  padding: 20px;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: transform 0.3s;
+  box-shadow: 100%, black;
+  text-align: center;
+}
+
+.box:hover {
+  transform: scale(1.2);
+}
+
+.box:active {
+  transform: scale(0.9);
+}
+
 .txt1 {
   padding: 10%;
 }
