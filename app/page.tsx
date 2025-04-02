@@ -55,6 +55,9 @@ const App = () => {
         ― Franz Kafka, Letters to Milena</i></p>
       </div>
       
+      <div className="randomaah">
+      <p className="text-l text-[#ffffff] tracking-wide font-regular">I&apos;m so fucking bored here you have no idea</p>
+      </div>
       
           
     </div> 
