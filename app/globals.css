@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
+
 .unifrakturmaguntia-regular {
   font-family: "UnifrakturMaguntia", cursive;
   font-weight: 400;
@@ -26,6 +27,11 @@ body {
   height: 20vh;
   display: flex;
 }
+.containerbot {
+  position: relative;
+  height: 20vh;
+  display: flex;
+}
 
 .app-container {
   position: relative;
@@ -41,8 +47,4 @@ body {
   gap: 50px;
   z-index: 10;
   text-align: center;
-}
-
-.txt1 {
-  padding: 10%;
 }
