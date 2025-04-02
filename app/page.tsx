@@ -55,9 +55,7 @@ const App = () => {
         ― Franz Kafka, Letters to Milena</i></p>
       </div>
       
-      <div className="containerbot">
-        
-      </div>
+      
           
     </div> 
 
