@@ -36,7 +36,13 @@ body {
   text-align: center;
 }
 
+.separatorbox {
+  position: relative;
+  height: 10vh;
+  display: flex;
+}
 .box {
+  justify-content: center;
   display: inline-block;
   background-color: #603875;
   color: white;

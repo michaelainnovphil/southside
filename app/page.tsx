@@ -68,7 +68,29 @@ const App = () => {
           priority
         />
         <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 2, 2025 1:56 PM eto yung sabi kong meaning nung soad song na nakalimutan ko</p>
-      <div className="containerbot"></div>
+      <div className="separatorbox"></div>
+
+      <Image
+          className="randomaa1"
+          src="/randomaa3.png"
+          alt="randomaa3"
+          width={350}
+          height={100}
+          priority
+        />
+        <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 15, 2025 10:25 AM hahaha ok</p>
+      <div className="separatorbox"></div>
+
+      <blockquote className="reddit-embed-bq" data-embed-created="2025-04-15T02:35:50Z">
+<a href="https://www.reddit.com/r/lakers/comments/1jfzwu4/which_bronify_song_do_you_think_deserves_to_win/">Which Bronify song do you think deserves to win the LeGrammy? The LeBronaissance started with the song Reigning in LA.</a> by
+<a href="https://www.reddit.com/user/LEMIROS_PIELAGO/">u/LEMIROS_PIELAGO</a> in
+<a href="https://www.reddit.com/r/lakers/">lakers</a>
+</blockquote>
+<script async src="https://embed.reddit.com/widgets.js"></script>
+      <div className="separatorbox"></div>
+
+
+
       <a
             className="box" 
             href="https://quietinsiders.vercel.app/"
