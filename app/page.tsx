@@ -85,17 +85,8 @@ const App = () => {
         <a href="https://www.reddit.com/r/lakers/comments/1jfzwu4/which_bronify_song_do_you_think_deserves_to_win/">Which Bronify song do you think deserves to win the LeGrammy? The LeBronaissance started with the song Reigning in LA.</a> by
         <a href="https://www.reddit.com/user/LEMIROS_PIELAGO/">u/LEMIROS_PIELAGO</a> in
         <a href="https://www.reddit.com/r/lakers/">lakers</a>
-        </blockquote>
-        <script async src="https://embed.reddit.com/widgets.js"></script>
-
-      <blockquote className="reddit-embed-bq" data-embed-height="220">
-      <a href="https://www.reddit.com/r/lakers/comments/1jfzwu4/comment/miv7pj8/">Comment</a> by
-          <a href="https://www.reddit.com/user/LEMIROS_PIELAGO/">u/LEMIROS_PIELAGO</a> from discussion
-          <a href="https://www.reddit.com/r/lakers/comments/1jfzwu4/which_bronify_song_do_you_think_deserves_to_win/"></a> in
-          <a href="https://www.reddit.com/r/lakers/">lakers</a>
       </blockquote>
-          
-        <script src="https://embed.reddit.com/widgets.js"></script>
+      <script async src="https://embed.reddit.com/widgets.js"></script>
 
       <div className="separatorbox"></div>
 
