@@ -90,7 +90,16 @@ const App = () => {
 
       <div className="separatorbox"></div>
 
-
+      <Image
+          className="randomaah"
+          src="/randomaa4.png"
+          alt="randomaa4"
+          width={350}
+          height={100}
+          priority
+        />
+        <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 21, 2025 03:56 PM AYE YO LOOK THAT'S YOU!!</p>
+      <div className="separatorbox"></div>
 
       <a
             className="box" 
