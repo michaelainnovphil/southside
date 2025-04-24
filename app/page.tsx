@@ -101,6 +101,17 @@ const App = () => {
         <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 21, 2025 03:56 PM AYE YO LOOK THAT&apos;S YOU!!</p>
       <div className="separatorbox"></div>
 
+      <Image
+          className="randomaa1"
+          src="/random1.png"
+          alt="randomaa4"
+          width={350}
+          height={100}
+          priority
+        />
+        <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 24, 2025 11:21 AM LFGGGGGGGGGGG</p>
+      <div className="separatorbox"></div>
+
       <a
             className="box" 
             href="https://quietinsiders.vercel.app/"
