@@ -65,7 +65,7 @@ const App = () => {
           priority
         />
         
-        
+
       </div>
       </div>
 
@@ -79,7 +79,7 @@ const App = () => {
       <p className="text-l text-[#ffffff] tracking-wide font-regular">I&apos;m so fucking bored here you have no idea</p>
       <p className="text-l text-[#ffffff] tracking-wide font-regular">dedma sa naghahadlang saken (nahuli sa work)</p>
       <Image
-          className="randomaa1"
+          className="randomaah"
           src="/randomaa1.png"
           alt="randomaa1"
           width={350}
@@ -90,7 +90,7 @@ const App = () => {
       <div className="separatorbox"></div>
 
       <Image
-          className="randomaa1"
+          className="randomaah"
           src="/randomaa3.png"
           alt="randomaa3"
           width={350}
@@ -110,7 +110,7 @@ const App = () => {
       <div className="separatorbox"></div>
 
       <Image
-          className="randomaa1"
+          className="randomaah"
           src="/randomaa4.png"
           alt="randomaa4"
           width={350}
@@ -121,7 +121,7 @@ const App = () => {
       <div className="separatorbox"></div>
 
       <Image
-          className="randomaa1"
+          className="randomaah"
           src="/random1.png"
           alt="randomaa4"
           width={350}
