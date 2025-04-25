@@ -46,7 +46,7 @@ body {
   display: inline-block;
   background-color: #603875;
   color: white;
-  padding: 20px;
+  padding: 15px;
   border-radius: 15px;
   cursor: pointer;
   transition: transform 0.3s;
@@ -55,11 +55,11 @@ body {
 }
 
 .box:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .box:active {
-  transform: scale(0.9);
+  transform: scale(0.8);
 }
 
 .txt1 {
@@ -70,4 +70,19 @@ body {
   padding: 5%;
   align-items: center;
   
+}
+
+.header {
+  position: relative;
+  background-color:#302f30;
+  height: 70px;
+  width: auto;
+  overflow: hidden;
+  padding-left: 3%;
+  padding-top: 1%;
+  padding-right: 3%;
+  padding-bottom: 1%;
+  justify-content:center;
+  align-items: center;
+  display: flex;
 }

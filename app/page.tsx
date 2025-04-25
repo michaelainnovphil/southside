@@ -6,13 +6,32 @@ import "./globals.css";
 const App = () => {
 
   return (
+
+    
     <div className="bg-[url(/image1.jpg)] bg-cover">
+      <div className="header">
+      <Image
+          className="image2"
+          src="/head.png"
+          alt="favicon"
+          width={60}
+          height={20}
+          priority
+        />
       
-      
+      <a
+            className="box" 
+            href="https://quietinsiders.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <p className="text-l ...">Entertain my thoughts.</p>
+          </a>
+        </div>
 
       <div className="app-container">
+        
         <div className="boxes-container">
-
         <Image
           className="image2"
           src="/image2.jpg"
@@ -112,14 +131,7 @@ const App = () => {
         <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 24, 2025 11:21 AM LFGGGGGGGGGGG</p>
       <div className="separatorbox"></div>
 
-      <a
-            className="box" 
-            href="https://quietinsiders.vercel.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <p className="text-l ...">Entertain my thoughts.</p>
-          </a>
+      
       </div>
 
       </div>
