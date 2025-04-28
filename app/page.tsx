@@ -28,11 +28,7 @@ const App = () => {
             <p className="text-l ...">Entertain my thoughts.</p>
           </a>
         </div>
-
-
-<div className="body-container">
-
-<div className="app-container">
+        <div className="app-container">
         <div className="boxes-container">
         <Image
           className="image2"
@@ -70,6 +66,10 @@ const App = () => {
 
       </div>
       </div>
+
+<div className="body-container">
+
+
 
         <Image
           className="randomaah"
