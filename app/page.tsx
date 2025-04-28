@@ -29,6 +29,48 @@ const App = () => {
           </a>
         </div>
 
+
+<div className="body-container">
+
+<div className="app-container">
+        <div className="boxes-container">
+        <Image
+          className="image2"
+          src="/image2.jpg"
+          alt="image2"
+          width={180}
+          height={38}
+          priority
+        />
+        <Image
+          className="image3"
+          src="/image3.jpg"
+          alt="image3"
+          width={180}
+          height={38}
+          priority
+        />
+        <Image
+          className="image3"
+          src="/image3.jpg"
+          alt="image3"
+          width={180}
+          height={38}
+          priority
+        />
+        <Image
+          className="image2"
+          src="/image2.jpg"
+          alt="image2"
+          width={180}
+          height={38}
+          priority
+        />
+        
+
+      </div>
+      </div>
+
         <Image
           className="randomaah"
           src="/random1.png"
@@ -49,8 +91,9 @@ const App = () => {
           height={100}
           priority
         />
+        <div className="txt1">
         <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 21, 2025 03:56 PM AYE YO LOOK THAT&apos;S YOU!!</p>
-      <div className="separatorbox"></div>
+      <div className="separatorbox"></div></div>
 
         <blockquote className="reddit-embed-bq" data-embed-created="2025-04-15T02:35:50Z">
         <a href="https://www.reddit.com/r/lakers/comments/1jfzwu4/which_bronify_song_do_you_think_deserves_to_win/">Which Bronify song do you think deserves to win the LeGrammy? The LeBronaissance started with the song Reigning in LA.</a> by
@@ -94,56 +137,6 @@ const App = () => {
         ― Franz Kafka, Letters to Milena</i></p>
       </div>
 
-      <div className="app-container">
-        <div className="boxes-container">
-        <Image
-          className="image2"
-          src="/image2.jpg"
-          alt="image2"
-          width={180}
-          height={38}
-          priority
-        />
-        <Image
-          className="image3"
-          src="/image3.jpg"
-          alt="image3"
-          width={180}
-          height={38}
-          priority
-        />
-        <Image
-          className="image3"
-          src="/image3.jpg"
-          alt="image3"
-          width={180}
-          height={38}
-          priority
-        />
-        <Image
-          className="image2"
-          src="/image2.jpg"
-          alt="image2"
-          width={180}
-          height={38}
-          priority
-        />
-        
-
-      </div>
-      </div>
-
-      
-      
-      
-      
-
-      
-
-      
-
-      
-
       
 
       
@@ -151,7 +144,7 @@ const App = () => {
 
       </div>
           
- 
+      </div>
 
  
 
