@@ -69,7 +69,16 @@ const App = () => {
 
 <div className="body-container">
 
-
+        <Image
+          className="randomaah"
+          src="/random2.png"
+          alt="randoma2"
+          width={350}
+          height={100}
+          priority
+        />
+        <p className="text-sm text-[#ffffff] tracking-wide font-regular">April 29, 2025 8:58 AM happy kid nanaman</p>
+      <div className="separatorbox"></div>
 
         <Image
           className="randomaah"
