@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Video from 'next-video';
 import React from "react";
 import "./globals.css";
 
@@ -69,9 +70,14 @@ const App = () => {
 
 <div className="body-container">
 
+
+
+      <Video src="videos/vid1.mp4" />;
+      <div className="separatorbox"></div>
+
         <Image
           className="randomaah"
-          src="/random2.png"
+          src="/random2.jpg"
           alt="randoma2"
           width={350}
           height={100}
