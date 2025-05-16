@@ -72,7 +72,15 @@ const App = () => {
 
 
 
-      <Video src="videos/vid1.mp4" />;
+      <Image
+          className="randomaah"
+          src="/screenshot1.png"
+          alt="screenshot"
+          width={350}
+          height={100}
+          priority
+        />
+        <p className="text-sm text-[#ffffff] tracking-wide font-regular">May 16, 2025 2:57 PM i feel so funny</p>
       <div className="separatorbox"></div>
 
         <Image
